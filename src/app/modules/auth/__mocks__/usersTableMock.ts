@@ -6,8 +6,8 @@ export class UsersTableMock {
     {
       id: 1,
       username: 'admin',
-      password: 'demo',
-      email: 'admin@demo.com',
+      password: 'Adidata2023',
+      email: 'payrolladmin@example.com',
       auth: {
         accessToken: 'access-token-8f3ae836da744329a6f93bf20594b5cc',
         refreshToken: 'access-token-f8c137a2c98743f48b643e71161d90aa',
